@@ -27,6 +27,7 @@ gdm
 geany
 gedit
 gettext
+ghc
 git
 gnome-backgrounds
 gnome-books
