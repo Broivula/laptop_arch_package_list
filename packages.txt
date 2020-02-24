@@ -1,3 +1,4 @@
+alacritty
 android-file-transfer
 android-studio
 android-udev
@@ -81,6 +82,10 @@ gvfs-nfs
 gvfs-smb
 gzip
 htop
+i3-gaps-rounded-git
+i3blocks
+i3lock
+i3status
 jmtpfs
 keychain
 libreoffice-still
@@ -96,14 +101,19 @@ mtpfs
 mutter
 nano
 nautilus
+nerd-fonts-complete
 networkmanager
+nitrogen
 nodejs
 npm
 orca
 pacman
 patch
+picom
 pkgconf
+polybar
 python-pip
+redshift
 rygel
 sed
 simple-scan
@@ -160,6 +170,7 @@ xorg-xdriinfo
 xorg-xev
 xorg-xgamma
 xorg-xhost
+xorg-xinit
 xorg-xinput
 xorg-xkbcomp
 xorg-xkbevd
