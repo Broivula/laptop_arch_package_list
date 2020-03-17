@@ -193,3 +193,4 @@ xorg-xwininfo
 xorg-xwud
 xterm
 yelp
+zoom
