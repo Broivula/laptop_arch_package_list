@@ -96,6 +96,8 @@ m4
 make
 mariadb
 minecraft-launcher
+mongodb-bin
+mongodb-tools-bin
 mousetweaks
 mtpfs
 mutter
