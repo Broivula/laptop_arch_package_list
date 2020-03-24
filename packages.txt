@@ -1,7 +1,9 @@
 alacritty
+alsa-utils
 android-file-transfer
 android-studio
 android-udev
+audacity
 autoconf
 automake
 baobab
@@ -112,14 +114,17 @@ npm
 orca
 pacman
 patch
+pavucontrol
 picom
 pkgconf
 polybar
 python-pip
+qjackctl
 redshift
 rygel
 sed
 simple-scan
+skypeforlinux-stable-bin
 spotify
 stack
 steam
