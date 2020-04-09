@@ -140,6 +140,7 @@ vi
 vim
 vim-plug
 vino
+vlc
 webstorm
 webstorm-jre
 which
@@ -147,6 +148,7 @@ wqy-zenhei
 xclip
 xdg-user-dirs-gtk
 xf86-video-amdgpu
+xf86-video-intel
 xf86-video-vesa
 xorg-bdftopcf
 xorg-docs
