@@ -83,6 +83,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 gzip
+heroku-cli
 htop
 i3-gaps-rounded-git
 i3blocks
