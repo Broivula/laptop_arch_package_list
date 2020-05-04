@@ -120,6 +120,7 @@ pavucontrol
 picom
 pkgconf
 polybar
+postman
 python-pip
 qjackctl
 redshift
