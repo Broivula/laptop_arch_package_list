@@ -14,6 +14,7 @@ bluez-utils
 brave-bin
 cheese
 cronie
+dosbox
 efibootmgr
 eog
 epiphany
@@ -92,6 +93,8 @@ i3status
 irssi
 jmtpfs
 keychain
+lib32-libpulse
+lib32-mpg123
 libreoffice-still
 libtool
 linux
@@ -148,6 +151,7 @@ vlc
 webstorm
 webstorm-jre
 which
+wine
 wqy-zenhei
 xclip
 xdg-user-dirs-gtk
