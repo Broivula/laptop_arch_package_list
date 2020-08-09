@@ -10,9 +10,12 @@ baobab
 base
 binutils
 bison
+blackarch-keyring
 bluez-utils
 brave-bin
+burpsuite
 cheese
+chkrootkit
 cronie
 discord
 dosbox
@@ -100,9 +103,11 @@ libreoffice-still
 libtool
 linux
 linux-firmware
+lynis
 m4
 make
 mariadb
+metasploit
 minecraft-launcher
 mongodb-bin
 mongodb-tools-bin
@@ -115,6 +120,7 @@ neofetch
 nerd-fonts-complete
 networkmanager
 nitrogen
+nmap
 nodejs
 npm
 orca
