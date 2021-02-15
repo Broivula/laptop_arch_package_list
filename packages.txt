@@ -17,6 +17,7 @@ burpsuite
 calibre
 cheese
 chkrootkit
+clamav
 cronie
 discord
 dosbox
