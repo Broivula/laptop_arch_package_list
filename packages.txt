@@ -3,6 +3,7 @@ alsa-utils
 android-file-transfer
 android-studio
 android-udev
+arp-scan
 audacity
 autoconf
 automake
