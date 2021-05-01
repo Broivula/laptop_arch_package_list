@@ -150,6 +150,7 @@ sudo
 sushi
 texinfo
 tilda
+tldr
 totem
 tracker
 tracker-miners
